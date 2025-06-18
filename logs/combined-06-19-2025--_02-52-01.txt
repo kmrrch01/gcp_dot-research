@@ -1,0 +1,15 @@
+2025-06-19 02:51:38 [INFO]: Started refreshing application (/) commands.
+2025-06-19 02:51:39 [INFO]: Ready! Logged in as gcp-bot#7425
+2025-06-19 02:51:39 [INFO]: Bot: Starting GCP monitoring...
+2025-06-19 02:51:39 [INFO]: Bot: Checking GCP data...
+2025-06-19 02:51:40 [INFO]: Successfully reloaded 17 application (/) commands.
+2025-06-19 02:51:40 [INFO]: Found 60 variance entries.
+2025-06-19 02:51:40 [INFO]: Latest Variance: 18.665580000000002, Latest Category: Yellow
+2025-06-19 02:51:40 [INFO]: Bot: Current status - Yellow (18.67%)
+2025-06-19 02:51:55 [INFO]: Bot: Checking GCP data...
+2025-06-19 02:51:56 [INFO]: Found 60 variance entries.
+2025-06-19 02:51:56 [INFO]: Latest Variance: 18.665580000000002, Latest Category: Yellow
+2025-06-19 02:51:56 [INFO]: Bot: Current status - Yellow (18.67%)
+2025-06-19 02:51:59 [ERROR]: (node:19104) Warning: Supplying "ephemeral" for interaction response options is deprecated. Utilize flags instead.
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-06-19 02:52:01 [INFO]: Successfully uploaded error.log to GitHub
