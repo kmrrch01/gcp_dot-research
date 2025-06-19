@@ -1,0 +1,2 @@
+2025-06-19 15:09:48 [ERROR]: Error fetching GCP data: read ECONNRESET
+2025-06-19 15:10:17 [ERROR]: Error fetching GCP data: read ECONNRESET
