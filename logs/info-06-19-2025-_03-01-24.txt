@@ -1,0 +1,3 @@
+function(chunk, encoding, cb) {
+  return _write(this, chunk, encoding, cb) === true;
+}
