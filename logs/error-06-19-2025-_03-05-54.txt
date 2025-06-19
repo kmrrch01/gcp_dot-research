@@ -1,0 +1,2 @@
+2025-06-19 03:05:53 [ERROR]: (node:19340) Warning: Supplying "ephemeral" for interaction response options is deprecated. Utilize flags instead.
+(Use `node --trace-warnings ...` to show where the warning was created)
