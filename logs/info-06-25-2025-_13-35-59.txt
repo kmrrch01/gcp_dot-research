@@ -1,0 +1,969 @@
+2025-06-25 12:36:00 [INFO]: Successfully uploaded logs to GitHub
+2025-06-25 12:36:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:36:07 [INFO]: Found 60 variance entries.
+2025-06-25 12:36:07 [INFO]: Latest Variance: 28.576279999999997, Latest Category: Yellow
+2025-06-25 12:36:07 [INFO]: Bot: Current status - Yellow (28.58%)
+2025-06-25 12:36:12 [INFO]: Bot: Sending Discord notification: [object Object]
+2025-06-25 12:36:12 [INFO]: Bot: Discord notification sent successfully. Status: 204
+2025-06-25 12:36:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:36:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:36:21 [INFO]: Latest Variance: 28.576279999999997, Latest Category: Yellow
+2025-06-25 12:36:21 [INFO]: Bot: Current status - Yellow (28.58%)
+2025-06-25 12:36:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:36:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:36:36 [INFO]: Latest Variance: 28.576279999999997, Latest Category: Yellow
+2025-06-25 12:36:36 [INFO]: Bot: Current status - Yellow (28.58%)
+2025-06-25 12:36:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:36:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:36:51 [INFO]: Latest Variance: 28.576279999999997, Latest Category: Yellow
+2025-06-25 12:36:51 [INFO]: Bot: Current status - Yellow (28.58%)
+2025-06-25 12:37:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:37:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:37:06 [INFO]: Latest Variance: 32.65976, Latest Category: Yellow
+2025-06-25 12:37:06 [INFO]: Bot: Current status - Yellow (32.66%)
+2025-06-25 12:37:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:37:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:37:21 [INFO]: Latest Variance: 32.65976, Latest Category: Yellow
+2025-06-25 12:37:21 [INFO]: Bot: Current status - Yellow (32.66%)
+2025-06-25 12:37:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:37:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:37:36 [INFO]: Latest Variance: 32.65976, Latest Category: Yellow
+2025-06-25 12:37:36 [INFO]: Bot: Current status - Yellow (32.66%)
+2025-06-25 12:37:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:37:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:37:51 [INFO]: Latest Variance: 32.65976, Latest Category: Yellow
+2025-06-25 12:37:51 [INFO]: Bot: Current status - Yellow (32.66%)
+2025-06-25 12:38:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:38:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:38:06 [INFO]: Latest Variance: 45.32964, Latest Category: Green
+2025-06-25 12:38:06 [INFO]: Bot: Sending Discord notification: [object Object]
+2025-06-25 12:38:07 [INFO]: Bot: Discord notification sent successfully. Status: 204
+2025-06-25 12:38:07 [INFO]: Bot: Current status - Green (45.33%)
+2025-06-25 12:38:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:38:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:38:21 [INFO]: Latest Variance: 45.32964, Latest Category: Green
+2025-06-25 12:38:21 [INFO]: Bot: Current status - Green (45.33%)
+2025-06-25 12:38:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:38:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:38:36 [INFO]: Latest Variance: 45.32964, Latest Category: Green
+2025-06-25 12:38:36 [INFO]: Bot: Current status - Green (45.33%)
+2025-06-25 12:38:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:38:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:38:51 [INFO]: Latest Variance: 45.32964, Latest Category: Green
+2025-06-25 12:38:51 [INFO]: Bot: Current status - Green (45.33%)
+2025-06-25 12:39:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:39:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:39:06 [INFO]: Latest Variance: 47.17748, Latest Category: Green
+2025-06-25 12:39:06 [INFO]: Bot: Current status - Green (47.18%)
+2025-06-25 12:39:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:39:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:39:21 [INFO]: Latest Variance: 47.17748, Latest Category: Green
+2025-06-25 12:39:21 [INFO]: Bot: Current status - Green (47.18%)
+2025-06-25 12:39:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:39:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:39:36 [INFO]: Latest Variance: 47.17748, Latest Category: Green
+2025-06-25 12:39:36 [INFO]: Bot: Current status - Green (47.18%)
+2025-06-25 12:39:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:39:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:39:51 [INFO]: Latest Variance: 47.17748, Latest Category: Green
+2025-06-25 12:39:51 [INFO]: Bot: Current status - Green (47.18%)
+2025-06-25 12:40:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:40:07 [INFO]: Found 60 variance entries.
+2025-06-25 12:40:07 [INFO]: Latest Variance: 47.05378, Latest Category: Green
+2025-06-25 12:40:07 [INFO]: Bot: Current status - Green (47.05%)
+2025-06-25 12:40:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:40:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:40:21 [INFO]: Latest Variance: 47.05378, Latest Category: Green
+2025-06-25 12:40:21 [INFO]: Bot: Current status - Green (47.05%)
+2025-06-25 12:40:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:40:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:40:36 [INFO]: Latest Variance: 47.05378, Latest Category: Green
+2025-06-25 12:40:36 [INFO]: Bot: Current status - Green (47.05%)
+2025-06-25 12:40:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:40:52 [INFO]: Found 60 variance entries.
+2025-06-25 12:40:52 [INFO]: Latest Variance: 47.05378, Latest Category: Green
+2025-06-25 12:40:52 [INFO]: Bot: Current status - Green (47.05%)
+2025-06-25 12:41:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:41:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:41:06 [INFO]: Latest Variance: 56.17624, Latest Category: Green
+2025-06-25 12:41:06 [INFO]: Bot: Current status - Green (56.18%)
+2025-06-25 12:41:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:41:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:41:21 [INFO]: Latest Variance: 56.17624, Latest Category: Green
+2025-06-25 12:41:21 [INFO]: Bot: Current status - Green (56.18%)
+2025-06-25 12:41:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:41:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:41:36 [INFO]: Latest Variance: 56.17624, Latest Category: Green
+2025-06-25 12:41:36 [INFO]: Bot: Current status - Green (56.18%)
+2025-06-25 12:41:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:41:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:41:51 [INFO]: Latest Variance: 56.17624, Latest Category: Green
+2025-06-25 12:41:51 [INFO]: Bot: Current status - Green (56.18%)
+2025-06-25 12:42:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:42:07 [INFO]: Found 60 variance entries.
+2025-06-25 12:42:07 [INFO]: Latest Variance: 47.52886, Latest Category: Green
+2025-06-25 12:42:07 [INFO]: Bot: Current status - Green (47.53%)
+2025-06-25 12:42:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:42:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:42:21 [INFO]: Latest Variance: 47.52886, Latest Category: Green
+2025-06-25 12:42:21 [INFO]: Bot: Current status - Green (47.53%)
+2025-06-25 12:42:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:42:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:42:36 [INFO]: Latest Variance: 47.52886, Latest Category: Green
+2025-06-25 12:42:36 [INFO]: Bot: Current status - Green (47.53%)
+2025-06-25 12:42:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:42:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:42:51 [INFO]: Latest Variance: 47.52886, Latest Category: Green
+2025-06-25 12:42:51 [INFO]: Bot: Current status - Green (47.53%)
+2025-06-25 12:43:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:43:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:43:06 [INFO]: Latest Variance: 46.9522, Latest Category: Green
+2025-06-25 12:43:06 [INFO]: Bot: Current status - Green (46.95%)
+2025-06-25 12:43:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:43:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:43:21 [INFO]: Latest Variance: 46.9522, Latest Category: Green
+2025-06-25 12:43:21 [INFO]: Bot: Current status - Green (46.95%)
+2025-06-25 12:43:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:43:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:43:36 [INFO]: Latest Variance: 46.9522, Latest Category: Green
+2025-06-25 12:43:36 [INFO]: Bot: Current status - Green (46.95%)
+2025-06-25 12:43:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:43:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:43:51 [INFO]: Latest Variance: 46.9522, Latest Category: Green
+2025-06-25 12:43:51 [INFO]: Bot: Current status - Green (46.95%)
+2025-06-25 12:44:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:44:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:44:06 [INFO]: Latest Variance: 44.05597, Latest Category: Green
+2025-06-25 12:44:06 [INFO]: Bot: Current status - Green (44.06%)
+2025-06-25 12:44:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:44:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:44:21 [INFO]: Latest Variance: 44.05597, Latest Category: Green
+2025-06-25 12:44:21 [INFO]: Bot: Current status - Green (44.06%)
+2025-06-25 12:44:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:44:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:44:36 [INFO]: Latest Variance: 44.05597, Latest Category: Green
+2025-06-25 12:44:36 [INFO]: Bot: Current status - Green (44.06%)
+2025-06-25 12:44:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:44:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:44:51 [INFO]: Latest Variance: 44.05597, Latest Category: Green
+2025-06-25 12:44:51 [INFO]: Bot: Current status - Green (44.06%)
+2025-06-25 12:45:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:45:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:45:06 [INFO]: Latest Variance: 35.55883, Latest Category: Yellow
+2025-06-25 12:45:06 [INFO]: Bot: Current status - Yellow (35.56%)
+2025-06-25 12:45:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:45:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:45:21 [INFO]: Latest Variance: 35.55883, Latest Category: Yellow
+2025-06-25 12:45:21 [INFO]: Bot: Current status - Yellow (35.56%)
+2025-06-25 12:45:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:45:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:45:36 [INFO]: Latest Variance: 35.55883, Latest Category: Yellow
+2025-06-25 12:45:36 [INFO]: Bot: Current status - Yellow (35.56%)
+2025-06-25 12:45:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:45:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:45:51 [INFO]: Latest Variance: 35.55883, Latest Category: Yellow
+2025-06-25 12:45:51 [INFO]: Bot: Current status - Yellow (35.56%)
+2025-06-25 12:46:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:46:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:46:06 [INFO]: Latest Variance: 33.9459, Latest Category: Yellow
+2025-06-25 12:46:06 [INFO]: Bot: Current status - Yellow (33.95%)
+2025-06-25 12:46:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:46:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:46:21 [INFO]: Latest Variance: 33.9459, Latest Category: Yellow
+2025-06-25 12:46:21 [INFO]: Bot: Current status - Yellow (33.95%)
+2025-06-25 12:46:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:46:37 [INFO]: Found 60 variance entries.
+2025-06-25 12:46:37 [INFO]: Latest Variance: 33.9459, Latest Category: Yellow
+2025-06-25 12:46:37 [INFO]: Bot: Current status - Yellow (33.95%)
+2025-06-25 12:46:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:46:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:46:51 [INFO]: Latest Variance: 33.9459, Latest Category: Yellow
+2025-06-25 12:46:51 [INFO]: Bot: Current status - Yellow (33.95%)
+2025-06-25 12:47:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:47:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:47:06 [INFO]: Latest Variance: 27.139380000000003, Latest Category: Yellow
+2025-06-25 12:47:06 [INFO]: Bot: Current status - Yellow (27.14%)
+2025-06-25 12:47:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:47:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:47:21 [INFO]: Latest Variance: 27.139380000000003, Latest Category: Yellow
+2025-06-25 12:47:21 [INFO]: Bot: Current status - Yellow (27.14%)
+2025-06-25 12:47:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:47:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:47:36 [INFO]: Latest Variance: 27.139380000000003, Latest Category: Yellow
+2025-06-25 12:47:36 [INFO]: Bot: Current status - Yellow (27.14%)
+2025-06-25 12:47:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:47:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:47:51 [INFO]: Latest Variance: 27.139380000000003, Latest Category: Yellow
+2025-06-25 12:47:51 [INFO]: Bot: Current status - Yellow (27.14%)
+2025-06-25 12:48:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:48:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:48:06 [INFO]: Latest Variance: 29.408440000000002, Latest Category: Yellow
+2025-06-25 12:48:06 [INFO]: Bot: Current status - Yellow (29.41%)
+2025-06-25 12:48:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:48:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:48:21 [INFO]: Latest Variance: 29.408440000000002, Latest Category: Yellow
+2025-06-25 12:48:21 [INFO]: Bot: Current status - Yellow (29.41%)
+2025-06-25 12:48:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:48:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:48:36 [INFO]: Latest Variance: 29.408440000000002, Latest Category: Yellow
+2025-06-25 12:48:36 [INFO]: Bot: Current status - Yellow (29.41%)
+2025-06-25 12:48:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:48:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:48:51 [INFO]: Latest Variance: 29.408440000000002, Latest Category: Yellow
+2025-06-25 12:48:51 [INFO]: Bot: Current status - Yellow (29.41%)
+2025-06-25 12:49:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:49:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:49:06 [INFO]: Latest Variance: 32.97539, Latest Category: Yellow
+2025-06-25 12:49:06 [INFO]: Bot: Current status - Yellow (32.98%)
+2025-06-25 12:49:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:49:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:49:21 [INFO]: Latest Variance: 32.97539, Latest Category: Yellow
+2025-06-25 12:49:21 [INFO]: Bot: Current status - Yellow (32.98%)
+2025-06-25 12:49:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:49:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:49:36 [INFO]: Latest Variance: 32.97539, Latest Category: Yellow
+2025-06-25 12:49:36 [INFO]: Bot: Current status - Yellow (32.98%)
+2025-06-25 12:49:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:49:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:49:51 [INFO]: Latest Variance: 32.97539, Latest Category: Yellow
+2025-06-25 12:49:51 [INFO]: Bot: Current status - Yellow (32.98%)
+2025-06-25 12:50:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:50:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:50:06 [INFO]: Latest Variance: 36.7795, Latest Category: Yellow
+2025-06-25 12:50:06 [INFO]: Bot: Current status - Yellow (36.78%)
+2025-06-25 12:50:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:50:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:50:21 [INFO]: Latest Variance: 36.7795, Latest Category: Yellow
+2025-06-25 12:50:21 [INFO]: Bot: Current status - Yellow (36.78%)
+2025-06-25 12:50:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:50:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:50:36 [INFO]: Latest Variance: 36.7795, Latest Category: Yellow
+2025-06-25 12:50:36 [INFO]: Bot: Current status - Yellow (36.78%)
+2025-06-25 12:50:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:50:52 [INFO]: Found 60 variance entries.
+2025-06-25 12:50:52 [INFO]: Latest Variance: 36.7795, Latest Category: Yellow
+2025-06-25 12:50:52 [INFO]: Bot: Current status - Yellow (36.78%)
+2025-06-25 12:51:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:51:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:51:06 [INFO]: Latest Variance: 33.17915, Latest Category: Yellow
+2025-06-25 12:51:06 [INFO]: Bot: Current status - Yellow (33.18%)
+2025-06-25 12:51:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:51:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:51:21 [INFO]: Latest Variance: 33.17915, Latest Category: Yellow
+2025-06-25 12:51:21 [INFO]: Bot: Current status - Yellow (33.18%)
+2025-06-25 12:51:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:51:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:51:36 [INFO]: Latest Variance: 33.17915, Latest Category: Yellow
+2025-06-25 12:51:36 [INFO]: Bot: Current status - Yellow (33.18%)
+2025-06-25 12:51:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:51:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:51:51 [INFO]: Latest Variance: 33.17915, Latest Category: Yellow
+2025-06-25 12:51:51 [INFO]: Bot: Current status - Yellow (33.18%)
+2025-06-25 12:52:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:52:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:52:06 [INFO]: Latest Variance: 32.26601, Latest Category: Yellow
+2025-06-25 12:52:06 [INFO]: Bot: Current status - Yellow (32.27%)
+2025-06-25 12:52:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:52:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:52:21 [INFO]: Latest Variance: 32.26601, Latest Category: Yellow
+2025-06-25 12:52:21 [INFO]: Bot: Current status - Yellow (32.27%)
+2025-06-25 12:52:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:52:37 [INFO]: Found 60 variance entries.
+2025-06-25 12:52:37 [INFO]: Latest Variance: 32.26601, Latest Category: Yellow
+2025-06-25 12:52:37 [INFO]: Bot: Current status - Yellow (32.27%)
+2025-06-25 12:52:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:52:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:52:51 [INFO]: Latest Variance: 32.26601, Latest Category: Yellow
+2025-06-25 12:52:51 [INFO]: Bot: Current status - Yellow (32.27%)
+2025-06-25 12:53:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:53:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:53:06 [INFO]: Latest Variance: 30.85674, Latest Category: Yellow
+2025-06-25 12:53:06 [INFO]: Bot: Current status - Yellow (30.86%)
+2025-06-25 12:53:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:53:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:53:21 [INFO]: Latest Variance: 30.85674, Latest Category: Yellow
+2025-06-25 12:53:21 [INFO]: Bot: Current status - Yellow (30.86%)
+2025-06-25 12:53:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:53:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:53:36 [INFO]: Latest Variance: 30.85674, Latest Category: Yellow
+2025-06-25 12:53:36 [INFO]: Bot: Current status - Yellow (30.86%)
+2025-06-25 12:53:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:53:52 [INFO]: Found 60 variance entries.
+2025-06-25 12:53:52 [INFO]: Latest Variance: 30.85674, Latest Category: Yellow
+2025-06-25 12:53:52 [INFO]: Bot: Current status - Yellow (30.86%)
+2025-06-25 12:54:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:54:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:54:06 [INFO]: Latest Variance: 35.09072, Latest Category: Yellow
+2025-06-25 12:54:06 [INFO]: Bot: Current status - Yellow (35.09%)
+2025-06-25 12:54:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:54:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:54:21 [INFO]: Latest Variance: 35.09072, Latest Category: Yellow
+2025-06-25 12:54:21 [INFO]: Bot: Current status - Yellow (35.09%)
+2025-06-25 12:54:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:54:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:54:36 [INFO]: Latest Variance: 35.09072, Latest Category: Yellow
+2025-06-25 12:54:36 [INFO]: Bot: Current status - Yellow (35.09%)
+2025-06-25 12:54:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:54:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:54:51 [INFO]: Latest Variance: 35.09072, Latest Category: Yellow
+2025-06-25 12:54:51 [INFO]: Bot: Current status - Yellow (35.09%)
+2025-06-25 12:55:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:55:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:55:06 [INFO]: Latest Variance: 39.67094, Latest Category: Yellow
+2025-06-25 12:55:06 [INFO]: Bot: Current status - Yellow (39.67%)
+2025-06-25 12:55:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:55:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:55:21 [INFO]: Latest Variance: 39.67094, Latest Category: Yellow
+2025-06-25 12:55:21 [INFO]: Bot: Current status - Yellow (39.67%)
+2025-06-25 12:55:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:55:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:55:36 [INFO]: Latest Variance: 39.67094, Latest Category: Yellow
+2025-06-25 12:55:36 [INFO]: Bot: Current status - Yellow (39.67%)
+2025-06-25 12:55:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:55:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:55:51 [INFO]: Latest Variance: 39.67094, Latest Category: Yellow
+2025-06-25 12:55:51 [INFO]: Bot: Current status - Yellow (39.67%)
+2025-06-25 12:56:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:56:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:56:06 [INFO]: Latest Variance: 43.09006, Latest Category: Green
+2025-06-25 12:56:06 [INFO]: Bot: Sending Discord notification: [object Object]
+2025-06-25 12:56:07 [INFO]: Bot: Discord notification sent successfully. Status: 204
+2025-06-25 12:56:07 [INFO]: Bot: Current status - Green (43.09%)
+2025-06-25 12:56:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:56:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:56:21 [INFO]: Latest Variance: 43.09006, Latest Category: Green
+2025-06-25 12:56:21 [INFO]: Bot: Current status - Green (43.09%)
+2025-06-25 12:56:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:56:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:56:36 [INFO]: Latest Variance: 43.09006, Latest Category: Green
+2025-06-25 12:56:36 [INFO]: Bot: Current status - Green (43.09%)
+2025-06-25 12:56:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:56:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:56:51 [INFO]: Latest Variance: 43.09006, Latest Category: Green
+2025-06-25 12:56:51 [INFO]: Bot: Current status - Green (43.09%)
+2025-06-25 12:57:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:57:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:57:06 [INFO]: Latest Variance: 46.327020000000005, Latest Category: Green
+2025-06-25 12:57:06 [INFO]: Bot: Current status - Green (46.33%)
+2025-06-25 12:57:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:57:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:57:21 [INFO]: Latest Variance: 46.327020000000005, Latest Category: Green
+2025-06-25 12:57:21 [INFO]: Bot: Current status - Green (46.33%)
+2025-06-25 12:57:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:57:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:57:36 [INFO]: Latest Variance: 46.327020000000005, Latest Category: Green
+2025-06-25 12:57:36 [INFO]: Bot: Current status - Green (46.33%)
+2025-06-25 12:57:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:57:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:57:51 [INFO]: Latest Variance: 46.327020000000005, Latest Category: Green
+2025-06-25 12:57:51 [INFO]: Bot: Current status - Green (46.33%)
+2025-06-25 12:58:05 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:58:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:58:06 [INFO]: Latest Variance: 45.35456, Latest Category: Green
+2025-06-25 12:58:06 [INFO]: Bot: Current status - Green (45.35%)
+2025-06-25 12:58:20 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:58:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:58:21 [INFO]: Latest Variance: 45.35456, Latest Category: Green
+2025-06-25 12:58:21 [INFO]: Bot: Current status - Green (45.35%)
+2025-06-25 12:58:35 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:58:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:58:36 [INFO]: Latest Variance: 45.35456, Latest Category: Green
+2025-06-25 12:58:36 [INFO]: Bot: Current status - Green (45.35%)
+2025-06-25 12:58:50 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:58:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:58:51 [INFO]: Latest Variance: 45.35456, Latest Category: Green
+2025-06-25 12:58:51 [INFO]: Bot: Current status - Green (45.35%)
+2025-06-25 12:59:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:59:06 [INFO]: Found 60 variance entries.
+2025-06-25 12:59:06 [INFO]: Latest Variance: 43.72359, Latest Category: Green
+2025-06-25 12:59:06 [INFO]: Bot: Current status - Green (43.72%)
+2025-06-25 12:59:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:59:21 [INFO]: Found 60 variance entries.
+2025-06-25 12:59:21 [INFO]: Latest Variance: 43.72359, Latest Category: Green
+2025-06-25 12:59:21 [INFO]: Bot: Current status - Green (43.72%)
+2025-06-25 12:59:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:59:36 [INFO]: Found 60 variance entries.
+2025-06-25 12:59:36 [INFO]: Latest Variance: 43.72359, Latest Category: Green
+2025-06-25 12:59:36 [INFO]: Bot: Current status - Green (43.72%)
+2025-06-25 12:59:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 12:59:51 [INFO]: Found 60 variance entries.
+2025-06-25 12:59:51 [INFO]: Latest Variance: 43.72359, Latest Category: Green
+2025-06-25 12:59:51 [INFO]: Bot: Current status - Green (43.72%)
+2025-06-25 13:00:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:00:06 [INFO]: Found 60 variance entries.
+2025-06-25 13:00:06 [INFO]: Latest Variance: 50.11452, Latest Category: Green
+2025-06-25 13:00:06 [INFO]: Bot: Current status - Green (50.11%)
+2025-06-25 13:00:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:00:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:00:22 [INFO]: Latest Variance: 50.11452, Latest Category: Green
+2025-06-25 13:00:22 [INFO]: Bot: Current status - Green (50.11%)
+2025-06-25 13:00:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:00:36 [INFO]: Found 60 variance entries.
+2025-06-25 13:00:36 [INFO]: Latest Variance: 50.11452, Latest Category: Green
+2025-06-25 13:00:36 [INFO]: Bot: Current status - Green (50.11%)
+2025-06-25 13:00:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:00:51 [INFO]: Found 60 variance entries.
+2025-06-25 13:00:51 [INFO]: Latest Variance: 50.11452, Latest Category: Green
+2025-06-25 13:00:51 [INFO]: Bot: Current status - Green (50.11%)
+2025-06-25 13:01:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:01:06 [INFO]: Found 60 variance entries.
+2025-06-25 13:01:06 [INFO]: Latest Variance: 46.74689, Latest Category: Green
+2025-06-25 13:01:06 [INFO]: Bot: Current status - Green (46.75%)
+2025-06-25 13:01:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:01:23 [INFO]: Found 60 variance entries.
+2025-06-25 13:01:23 [INFO]: Latest Variance: 46.74689, Latest Category: Green
+2025-06-25 13:01:23 [INFO]: Bot: Current status - Green (46.75%)
+2025-06-25 13:01:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:01:36 [INFO]: Found 60 variance entries.
+2025-06-25 13:01:36 [INFO]: Latest Variance: 46.74689, Latest Category: Green
+2025-06-25 13:01:36 [INFO]: Bot: Current status - Green (46.75%)
+2025-06-25 13:01:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:01:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:01:52 [INFO]: Latest Variance: 46.74689, Latest Category: Green
+2025-06-25 13:01:52 [INFO]: Bot: Current status - Green (46.75%)
+2025-06-25 13:02:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:02:06 [INFO]: Found 60 variance entries.
+2025-06-25 13:02:06 [INFO]: Latest Variance: 52.938320000000004, Latest Category: Green
+2025-06-25 13:02:06 [INFO]: Bot: Current status - Green (52.94%)
+2025-06-25 13:02:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:02:21 [INFO]: Found 60 variance entries.
+2025-06-25 13:02:21 [INFO]: Latest Variance: 52.938320000000004, Latest Category: Green
+2025-06-25 13:02:21 [INFO]: Bot: Current status - Green (52.94%)
+2025-06-25 13:02:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:02:36 [INFO]: Found 60 variance entries.
+2025-06-25 13:02:36 [INFO]: Latest Variance: 52.938320000000004, Latest Category: Green
+2025-06-25 13:02:36 [INFO]: Bot: Current status - Green (52.94%)
+2025-06-25 13:02:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:02:51 [INFO]: Found 60 variance entries.
+2025-06-25 13:02:51 [INFO]: Latest Variance: 52.938320000000004, Latest Category: Green
+2025-06-25 13:02:51 [INFO]: Bot: Current status - Green (52.94%)
+2025-06-25 13:03:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:03:06 [INFO]: Found 60 variance entries.
+2025-06-25 13:03:06 [INFO]: Latest Variance: 46.67112, Latest Category: Green
+2025-06-25 13:03:06 [INFO]: Bot: Current status - Green (46.67%)
+2025-06-25 13:03:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:03:21 [INFO]: Found 60 variance entries.
+2025-06-25 13:03:21 [INFO]: Latest Variance: 46.67112, Latest Category: Green
+2025-06-25 13:03:21 [INFO]: Bot: Current status - Green (46.67%)
+2025-06-25 13:03:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:03:36 [INFO]: Found 60 variance entries.
+2025-06-25 13:03:36 [INFO]: Latest Variance: 46.67112, Latest Category: Green
+2025-06-25 13:03:36 [INFO]: Bot: Current status - Green (46.67%)
+2025-06-25 13:03:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:03:51 [INFO]: Found 60 variance entries.
+2025-06-25 13:03:51 [INFO]: Latest Variance: 46.67112, Latest Category: Green
+2025-06-25 13:03:51 [INFO]: Bot: Current status - Green (46.67%)
+2025-06-25 13:04:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:04:06 [INFO]: Found 60 variance entries.
+2025-06-25 13:04:06 [INFO]: Latest Variance: 51.78337, Latest Category: Green
+2025-06-25 13:04:06 [INFO]: Bot: Current status - Green (51.78%)
+2025-06-25 13:04:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:04:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:04:22 [INFO]: Latest Variance: 51.78337, Latest Category: Green
+2025-06-25 13:04:22 [INFO]: Bot: Current status - Green (51.78%)
+2025-06-25 13:04:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:04:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:04:37 [INFO]: Latest Variance: 51.78337, Latest Category: Green
+2025-06-25 13:04:37 [INFO]: Bot: Current status - Green (51.78%)
+2025-06-25 13:04:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:04:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:04:52 [INFO]: Latest Variance: 51.78337, Latest Category: Green
+2025-06-25 13:04:52 [INFO]: Bot: Current status - Green (51.78%)
+2025-06-25 13:05:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:05:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:05:07 [INFO]: Latest Variance: 50.964200000000005, Latest Category: Green
+2025-06-25 13:05:07 [INFO]: Bot: Current status - Green (50.96%)
+2025-06-25 13:05:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:05:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:05:22 [INFO]: Latest Variance: 50.964200000000005, Latest Category: Green
+2025-06-25 13:05:22 [INFO]: Bot: Current status - Green (50.96%)
+2025-06-25 13:05:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:05:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:05:37 [INFO]: Latest Variance: 50.964200000000005, Latest Category: Green
+2025-06-25 13:05:37 [INFO]: Bot: Current status - Green (50.96%)
+2025-06-25 13:05:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:05:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:05:52 [INFO]: Latest Variance: 50.964200000000005, Latest Category: Green
+2025-06-25 13:05:52 [INFO]: Bot: Current status - Green (50.96%)
+2025-06-25 13:06:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:06:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:06:07 [INFO]: Latest Variance: 51.35426, Latest Category: Green
+2025-06-25 13:06:07 [INFO]: Bot: Current status - Green (51.35%)
+2025-06-25 13:06:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:06:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:06:22 [INFO]: Latest Variance: 51.35426, Latest Category: Green
+2025-06-25 13:06:22 [INFO]: Bot: Current status - Green (51.35%)
+2025-06-25 13:06:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:06:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:06:37 [INFO]: Latest Variance: 51.35426, Latest Category: Green
+2025-06-25 13:06:37 [INFO]: Bot: Current status - Green (51.35%)
+2025-06-25 13:06:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:06:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:06:52 [INFO]: Latest Variance: 51.35426, Latest Category: Green
+2025-06-25 13:06:52 [INFO]: Bot: Current status - Green (51.35%)
+2025-06-25 13:07:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:07:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:07:07 [INFO]: Latest Variance: 44.929069999999996, Latest Category: Green
+2025-06-25 13:07:07 [INFO]: Bot: Current status - Green (44.93%)
+2025-06-25 13:07:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:07:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:07:22 [INFO]: Latest Variance: 44.929069999999996, Latest Category: Green
+2025-06-25 13:07:22 [INFO]: Bot: Current status - Green (44.93%)
+2025-06-25 13:07:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:07:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:07:37 [INFO]: Latest Variance: 44.929069999999996, Latest Category: Green
+2025-06-25 13:07:37 [INFO]: Bot: Current status - Green (44.93%)
+2025-06-25 13:07:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:07:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:07:52 [INFO]: Latest Variance: 44.929069999999996, Latest Category: Green
+2025-06-25 13:07:52 [INFO]: Bot: Current status - Green (44.93%)
+2025-06-25 13:08:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:08:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:08:07 [INFO]: Latest Variance: 45.29814, Latest Category: Green
+2025-06-25 13:08:07 [INFO]: Bot: Current status - Green (45.30%)
+2025-06-25 13:08:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:08:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:08:22 [INFO]: Latest Variance: 45.29814, Latest Category: Green
+2025-06-25 13:08:22 [INFO]: Bot: Current status - Green (45.30%)
+2025-06-25 13:08:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:08:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:08:37 [INFO]: Latest Variance: 45.29814, Latest Category: Green
+2025-06-25 13:08:37 [INFO]: Bot: Current status - Green (45.30%)
+2025-06-25 13:08:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:08:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:08:52 [INFO]: Latest Variance: 45.29814, Latest Category: Green
+2025-06-25 13:08:52 [INFO]: Bot: Current status - Green (45.30%)
+2025-06-25 13:09:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:09:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:09:07 [INFO]: Latest Variance: 48.90104, Latest Category: Green
+2025-06-25 13:09:07 [INFO]: Bot: Current status - Green (48.90%)
+2025-06-25 13:09:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:09:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:09:22 [INFO]: Latest Variance: 48.90104, Latest Category: Green
+2025-06-25 13:09:22 [INFO]: Bot: Current status - Green (48.90%)
+2025-06-25 13:09:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:09:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:09:37 [INFO]: Latest Variance: 48.90104, Latest Category: Green
+2025-06-25 13:09:37 [INFO]: Bot: Current status - Green (48.90%)
+2025-06-25 13:09:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:09:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:09:52 [INFO]: Latest Variance: 48.90104, Latest Category: Green
+2025-06-25 13:09:52 [INFO]: Bot: Current status - Green (48.90%)
+2025-06-25 13:10:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:10:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:10:07 [INFO]: Latest Variance: 54.47737, Latest Category: Green
+2025-06-25 13:10:07 [INFO]: Bot: Current status - Green (54.48%)
+2025-06-25 13:10:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:10:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:10:22 [INFO]: Latest Variance: 54.47737, Latest Category: Green
+2025-06-25 13:10:22 [INFO]: Bot: Current status - Green (54.48%)
+2025-06-25 13:10:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:10:38 [INFO]: Found 60 variance entries.
+2025-06-25 13:10:38 [INFO]: Latest Variance: 54.47737, Latest Category: Green
+2025-06-25 13:10:38 [INFO]: Bot: Current status - Green (54.48%)
+2025-06-25 13:10:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:10:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:10:52 [INFO]: Latest Variance: 54.47737, Latest Category: Green
+2025-06-25 13:10:52 [INFO]: Bot: Current status - Green (54.48%)
+2025-06-25 13:11:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:11:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:11:07 [INFO]: Latest Variance: 57.286820000000006, Latest Category: Green
+2025-06-25 13:11:07 [INFO]: Bot: Current status - Green (57.29%)
+2025-06-25 13:11:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:11:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:11:22 [INFO]: Latest Variance: 57.286820000000006, Latest Category: Green
+2025-06-25 13:11:22 [INFO]: Bot: Current status - Green (57.29%)
+2025-06-25 13:11:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:11:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:11:37 [INFO]: Latest Variance: 57.286820000000006, Latest Category: Green
+2025-06-25 13:11:37 [INFO]: Bot: Current status - Green (57.29%)
+2025-06-25 13:11:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:11:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:11:52 [INFO]: Latest Variance: 57.286820000000006, Latest Category: Green
+2025-06-25 13:11:52 [INFO]: Bot: Current status - Green (57.29%)
+2025-06-25 13:12:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:12:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:12:07 [INFO]: Latest Variance: 50.54168, Latest Category: Green
+2025-06-25 13:12:07 [INFO]: Bot: Current status - Green (50.54%)
+2025-06-25 13:12:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:12:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:12:22 [INFO]: Latest Variance: 50.54168, Latest Category: Green
+2025-06-25 13:12:22 [INFO]: Bot: Current status - Green (50.54%)
+2025-06-25 13:12:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:12:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:12:37 [INFO]: Latest Variance: 50.54168, Latest Category: Green
+2025-06-25 13:12:37 [INFO]: Bot: Current status - Green (50.54%)
+2025-06-25 13:12:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:12:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:12:52 [INFO]: Latest Variance: 50.54168, Latest Category: Green
+2025-06-25 13:12:52 [INFO]: Bot: Current status - Green (50.54%)
+2025-06-25 13:13:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:13:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:13:07 [INFO]: Latest Variance: 51.19775, Latest Category: Green
+2025-06-25 13:13:07 [INFO]: Bot: Current status - Green (51.20%)
+2025-06-25 13:13:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:13:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:13:22 [INFO]: Latest Variance: 51.19775, Latest Category: Green
+2025-06-25 13:13:22 [INFO]: Bot: Current status - Green (51.20%)
+2025-06-25 13:13:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:13:38 [INFO]: Found 60 variance entries.
+2025-06-25 13:13:38 [INFO]: Latest Variance: 51.19775, Latest Category: Green
+2025-06-25 13:13:38 [INFO]: Bot: Current status - Green (51.20%)
+2025-06-25 13:13:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:13:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:13:52 [INFO]: Latest Variance: 51.19775, Latest Category: Green
+2025-06-25 13:13:52 [INFO]: Bot: Current status - Green (51.20%)
+2025-06-25 13:14:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:14:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:14:07 [INFO]: Latest Variance: 55.173570000000005, Latest Category: Green
+2025-06-25 13:14:07 [INFO]: Bot: Current status - Green (55.17%)
+2025-06-25 13:14:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:14:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:14:22 [INFO]: Latest Variance: 55.173570000000005, Latest Category: Green
+2025-06-25 13:14:22 [INFO]: Bot: Current status - Green (55.17%)
+2025-06-25 13:14:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:14:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:14:37 [INFO]: Latest Variance: 55.173570000000005, Latest Category: Green
+2025-06-25 13:14:37 [INFO]: Bot: Current status - Green (55.17%)
+2025-06-25 13:14:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:14:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:14:52 [INFO]: Latest Variance: 55.173570000000005, Latest Category: Green
+2025-06-25 13:14:52 [INFO]: Bot: Current status - Green (55.17%)
+2025-06-25 13:15:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:15:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:15:07 [INFO]: Latest Variance: 52.89564, Latest Category: Green
+2025-06-25 13:15:07 [INFO]: Bot: Current status - Green (52.90%)
+2025-06-25 13:15:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:15:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:15:22 [INFO]: Latest Variance: 52.89564, Latest Category: Green
+2025-06-25 13:15:22 [INFO]: Bot: Current status - Green (52.90%)
+2025-06-25 13:15:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:15:38 [INFO]: Found 60 variance entries.
+2025-06-25 13:15:38 [INFO]: Latest Variance: 52.89564, Latest Category: Green
+2025-06-25 13:15:38 [INFO]: Bot: Current status - Green (52.90%)
+2025-06-25 13:15:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:15:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:15:52 [INFO]: Latest Variance: 52.89564, Latest Category: Green
+2025-06-25 13:15:52 [INFO]: Bot: Current status - Green (52.90%)
+2025-06-25 13:16:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:16:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:16:07 [INFO]: Latest Variance: 53.68199, Latest Category: Green
+2025-06-25 13:16:07 [INFO]: Bot: Current status - Green (53.68%)
+2025-06-25 13:16:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:16:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:16:22 [INFO]: Latest Variance: 53.68199, Latest Category: Green
+2025-06-25 13:16:22 [INFO]: Bot: Current status - Green (53.68%)
+2025-06-25 13:16:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:16:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:16:37 [INFO]: Latest Variance: 53.68199, Latest Category: Green
+2025-06-25 13:16:37 [INFO]: Bot: Current status - Green (53.68%)
+2025-06-25 13:16:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:16:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:16:52 [INFO]: Latest Variance: 53.68199, Latest Category: Green
+2025-06-25 13:16:52 [INFO]: Bot: Current status - Green (53.68%)
+2025-06-25 13:17:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:17:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:17:07 [INFO]: Latest Variance: 57.995430000000006, Latest Category: Green
+2025-06-25 13:17:07 [INFO]: Bot: Current status - Green (58.00%)
+2025-06-25 13:17:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:17:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:17:22 [INFO]: Latest Variance: 57.995430000000006, Latest Category: Green
+2025-06-25 13:17:22 [INFO]: Bot: Current status - Green (58.00%)
+2025-06-25 13:17:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:17:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:17:37 [INFO]: Latest Variance: 57.995430000000006, Latest Category: Green
+2025-06-25 13:17:37 [INFO]: Bot: Current status - Green (58.00%)
+2025-06-25 13:17:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:17:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:17:52 [INFO]: Latest Variance: 57.995430000000006, Latest Category: Green
+2025-06-25 13:17:52 [INFO]: Bot: Current status - Green (58.00%)
+2025-06-25 13:18:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:18:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:18:07 [INFO]: Latest Variance: 59.96582, Latest Category: Green
+2025-06-25 13:18:07 [INFO]: Bot: Current status - Green (59.97%)
+2025-06-25 13:18:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:18:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:18:22 [INFO]: Latest Variance: 59.96582, Latest Category: Green
+2025-06-25 13:18:22 [INFO]: Bot: Current status - Green (59.97%)
+2025-06-25 13:18:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:18:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:18:37 [INFO]: Latest Variance: 59.96582, Latest Category: Green
+2025-06-25 13:18:37 [INFO]: Bot: Current status - Green (59.97%)
+2025-06-25 13:18:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:18:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:18:52 [INFO]: Latest Variance: 59.96582, Latest Category: Green
+2025-06-25 13:18:52 [INFO]: Bot: Current status - Green (59.97%)
+2025-06-25 13:19:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:19:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:19:07 [INFO]: Latest Variance: 65.81598, Latest Category: Green
+2025-06-25 13:19:07 [INFO]: Bot: Current status - Green (65.82%)
+2025-06-25 13:19:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:19:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:19:22 [INFO]: Latest Variance: 65.81598, Latest Category: Green
+2025-06-25 13:19:22 [INFO]: Bot: Current status - Green (65.82%)
+2025-06-25 13:19:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:19:38 [INFO]: Found 60 variance entries.
+2025-06-25 13:19:38 [INFO]: Latest Variance: 65.81598, Latest Category: Green
+2025-06-25 13:19:38 [INFO]: Bot: Current status - Green (65.82%)
+2025-06-25 13:19:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:19:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:19:52 [INFO]: Latest Variance: 65.81598, Latest Category: Green
+2025-06-25 13:19:52 [INFO]: Bot: Current status - Green (65.82%)
+2025-06-25 13:20:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:20:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:20:07 [INFO]: Latest Variance: 61.72592, Latest Category: Green
+2025-06-25 13:20:07 [INFO]: Bot: Current status - Green (61.73%)
+2025-06-25 13:20:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:20:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:20:22 [INFO]: Latest Variance: 61.72592, Latest Category: Green
+2025-06-25 13:20:22 [INFO]: Bot: Current status - Green (61.73%)
+2025-06-25 13:20:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:20:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:20:37 [INFO]: Latest Variance: 61.72592, Latest Category: Green
+2025-06-25 13:20:37 [INFO]: Bot: Current status - Green (61.73%)
+2025-06-25 13:20:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:20:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:20:52 [INFO]: Latest Variance: 61.72592, Latest Category: Green
+2025-06-25 13:20:52 [INFO]: Bot: Current status - Green (61.73%)
+2025-06-25 13:21:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:21:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:21:07 [INFO]: Latest Variance: 60.08034, Latest Category: Green
+2025-06-25 13:21:07 [INFO]: Bot: Current status - Green (60.08%)
+2025-06-25 13:21:12 [INFO]: Bot: Sending Discord notification: [object Object]
+2025-06-25 13:21:12 [INFO]: Bot: Discord notification sent successfully. Status: 204
+2025-06-25 13:21:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:21:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:21:22 [INFO]: Latest Variance: 60.08034, Latest Category: Green
+2025-06-25 13:21:22 [INFO]: Bot: Current status - Green (60.08%)
+2025-06-25 13:21:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:21:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:21:37 [INFO]: Latest Variance: 60.08034, Latest Category: Green
+2025-06-25 13:21:37 [INFO]: Bot: Current status - Green (60.08%)
+2025-06-25 13:21:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:21:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:21:52 [INFO]: Latest Variance: 60.08034, Latest Category: Green
+2025-06-25 13:21:52 [INFO]: Bot: Current status - Green (60.08%)
+2025-06-25 13:22:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:22:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:22:07 [INFO]: Latest Variance: 61.04017, Latest Category: Green
+2025-06-25 13:22:07 [INFO]: Bot: Current status - Green (61.04%)
+2025-06-25 13:22:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:22:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:22:22 [INFO]: Latest Variance: 61.04017, Latest Category: Green
+2025-06-25 13:22:22 [INFO]: Bot: Current status - Green (61.04%)
+2025-06-25 13:22:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:22:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:22:37 [INFO]: Latest Variance: 61.04017, Latest Category: Green
+2025-06-25 13:22:37 [INFO]: Bot: Current status - Green (61.04%)
+2025-06-25 13:22:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:22:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:22:52 [INFO]: Latest Variance: 61.04017, Latest Category: Green
+2025-06-25 13:22:52 [INFO]: Bot: Current status - Green (61.04%)
+2025-06-25 13:23:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:23:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:23:07 [INFO]: Latest Variance: 58.41092, Latest Category: Green
+2025-06-25 13:23:07 [INFO]: Bot: Current status - Green (58.41%)
+2025-06-25 13:23:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:23:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:23:22 [INFO]: Latest Variance: 58.41092, Latest Category: Green
+2025-06-25 13:23:22 [INFO]: Bot: Current status - Green (58.41%)
+2025-06-25 13:23:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:23:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:23:37 [INFO]: Latest Variance: 58.41092, Latest Category: Green
+2025-06-25 13:23:37 [INFO]: Bot: Current status - Green (58.41%)
+2025-06-25 13:23:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:23:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:23:52 [INFO]: Latest Variance: 58.41092, Latest Category: Green
+2025-06-25 13:23:52 [INFO]: Bot: Current status - Green (58.41%)
+2025-06-25 13:24:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:24:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:24:07 [INFO]: Latest Variance: 71.06122, Latest Category: Green
+2025-06-25 13:24:07 [INFO]: Bot: Current status - Green (71.06%)
+2025-06-25 13:24:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:24:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:24:22 [INFO]: Latest Variance: 71.06122, Latest Category: Green
+2025-06-25 13:24:22 [INFO]: Bot: Current status - Green (71.06%)
+2025-06-25 13:24:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:24:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:24:37 [INFO]: Latest Variance: 71.06122, Latest Category: Green
+2025-06-25 13:24:37 [INFO]: Bot: Current status - Green (71.06%)
+2025-06-25 13:24:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:24:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:24:52 [INFO]: Latest Variance: 71.06122, Latest Category: Green
+2025-06-25 13:24:52 [INFO]: Bot: Current status - Green (71.06%)
+2025-06-25 13:25:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:25:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:25:07 [INFO]: Latest Variance: 71.32193, Latest Category: Green
+2025-06-25 13:25:07 [INFO]: Bot: Current status - Green (71.32%)
+2025-06-25 13:25:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:25:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:25:22 [INFO]: Latest Variance: 71.32193, Latest Category: Green
+2025-06-25 13:25:22 [INFO]: Bot: Current status - Green (71.32%)
+2025-06-25 13:25:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:25:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:25:37 [INFO]: Latest Variance: 71.32193, Latest Category: Green
+2025-06-25 13:25:37 [INFO]: Bot: Current status - Green (71.32%)
+2025-06-25 13:25:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:25:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:25:52 [INFO]: Latest Variance: 71.32193, Latest Category: Green
+2025-06-25 13:25:52 [INFO]: Bot: Current status - Green (71.32%)
+2025-06-25 13:26:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:26:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:26:07 [INFO]: Latest Variance: 74.06207, Latest Category: Green
+2025-06-25 13:26:07 [INFO]: Bot: Current status - Green (74.06%)
+2025-06-25 13:26:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:26:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:26:22 [INFO]: Latest Variance: 74.06207, Latest Category: Green
+2025-06-25 13:26:22 [INFO]: Bot: Current status - Green (74.06%)
+2025-06-25 13:26:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:26:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:26:37 [INFO]: Latest Variance: 74.06207, Latest Category: Green
+2025-06-25 13:26:37 [INFO]: Bot: Current status - Green (74.06%)
+2025-06-25 13:26:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:26:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:26:52 [INFO]: Latest Variance: 74.06207, Latest Category: Green
+2025-06-25 13:26:52 [INFO]: Bot: Current status - Green (74.06%)
+2025-06-25 13:27:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:27:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:27:07 [INFO]: Latest Variance: 77.38062, Latest Category: Green
+2025-06-25 13:27:07 [INFO]: Bot: Current status - Green (77.38%)
+2025-06-25 13:27:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:27:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:27:22 [INFO]: Latest Variance: 77.38062, Latest Category: Green
+2025-06-25 13:27:22 [INFO]: Bot: Current status - Green (77.38%)
+2025-06-25 13:27:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:27:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:27:37 [INFO]: Latest Variance: 77.38062, Latest Category: Green
+2025-06-25 13:27:37 [INFO]: Bot: Current status - Green (77.38%)
+2025-06-25 13:27:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:27:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:27:52 [INFO]: Latest Variance: 77.38062, Latest Category: Green
+2025-06-25 13:27:52 [INFO]: Bot: Current status - Green (77.38%)
+2025-06-25 13:28:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:28:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:28:07 [INFO]: Latest Variance: 76.0282, Latest Category: Green
+2025-06-25 13:28:07 [INFO]: Bot: Current status - Green (76.03%)
+2025-06-25 13:28:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:28:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:28:22 [INFO]: Latest Variance: 76.0282, Latest Category: Green
+2025-06-25 13:28:22 [INFO]: Bot: Current status - Green (76.03%)
+2025-06-25 13:28:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:28:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:28:37 [INFO]: Latest Variance: 76.0282, Latest Category: Green
+2025-06-25 13:28:37 [INFO]: Bot: Current status - Green (76.03%)
+2025-06-25 13:28:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:28:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:28:52 [INFO]: Latest Variance: 76.0282, Latest Category: Green
+2025-06-25 13:28:52 [INFO]: Bot: Current status - Green (76.03%)
+2025-06-25 13:29:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:29:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:29:07 [INFO]: Latest Variance: 71.4829, Latest Category: Green
+2025-06-25 13:29:07 [INFO]: Bot: Current status - Green (71.48%)
+2025-06-25 13:29:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:29:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:29:22 [INFO]: Latest Variance: 71.4829, Latest Category: Green
+2025-06-25 13:29:22 [INFO]: Bot: Current status - Green (71.48%)
+2025-06-25 13:29:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:29:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:29:37 [INFO]: Latest Variance: 71.4829, Latest Category: Green
+2025-06-25 13:29:37 [INFO]: Bot: Current status - Green (71.48%)
+2025-06-25 13:29:51 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:29:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:29:52 [INFO]: Latest Variance: 71.4829, Latest Category: Green
+2025-06-25 13:29:52 [INFO]: Bot: Current status - Green (71.48%)
+2025-06-25 13:30:06 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:30:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:30:07 [INFO]: Latest Variance: 72.43164, Latest Category: Green
+2025-06-25 13:30:07 [INFO]: Bot: Current status - Green (72.43%)
+2025-06-25 13:30:21 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:30:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:30:22 [INFO]: Latest Variance: 72.43164, Latest Category: Green
+2025-06-25 13:30:22 [INFO]: Bot: Current status - Green (72.43%)
+2025-06-25 13:30:36 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:30:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:30:37 [INFO]: Latest Variance: 72.43164, Latest Category: Green
+2025-06-25 13:30:37 [INFO]: Bot: Current status - Green (72.43%)
+2025-06-25 13:30:52 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:30:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:30:52 [INFO]: Latest Variance: 72.43164, Latest Category: Green
+2025-06-25 13:30:52 [INFO]: Bot: Current status - Green (72.43%)
+2025-06-25 13:31:07 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:31:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:31:07 [INFO]: Latest Variance: 76.59917, Latest Category: Green
+2025-06-25 13:31:07 [INFO]: Bot: Current status - Green (76.60%)
+2025-06-25 13:31:22 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:31:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:31:22 [INFO]: Latest Variance: 76.59917, Latest Category: Green
+2025-06-25 13:31:22 [INFO]: Bot: Current status - Green (76.60%)
+2025-06-25 13:31:37 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:31:44 [INFO]: Found 60 variance entries.
+2025-06-25 13:31:44 [INFO]: Latest Variance: 76.59917, Latest Category: Green
+2025-06-25 13:31:44 [INFO]: Bot: Current status - Green (76.60%)
+2025-06-25 13:31:52 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:31:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:31:52 [INFO]: Latest Variance: 76.59917, Latest Category: Green
+2025-06-25 13:31:52 [INFO]: Bot: Current status - Green (76.60%)
+2025-06-25 13:32:07 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:32:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:32:07 [INFO]: Latest Variance: 72.26011, Latest Category: Green
+2025-06-25 13:32:07 [INFO]: Bot: Current status - Green (72.26%)
+2025-06-25 13:32:22 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:32:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:32:22 [INFO]: Latest Variance: 72.26011, Latest Category: Green
+2025-06-25 13:32:22 [INFO]: Bot: Current status - Green (72.26%)
+2025-06-25 13:32:37 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:32:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:32:37 [INFO]: Latest Variance: 72.26011, Latest Category: Green
+2025-06-25 13:32:37 [INFO]: Bot: Current status - Green (72.26%)
+2025-06-25 13:32:52 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:32:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:32:52 [INFO]: Latest Variance: 72.26011, Latest Category: Green
+2025-06-25 13:32:52 [INFO]: Bot: Current status - Green (72.26%)
+2025-06-25 13:33:07 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:33:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:33:07 [INFO]: Latest Variance: 70.6758, Latest Category: Green
+2025-06-25 13:33:07 [INFO]: Bot: Current status - Green (70.68%)
+2025-06-25 13:33:22 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:33:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:33:22 [INFO]: Latest Variance: 70.6758, Latest Category: Green
+2025-06-25 13:33:22 [INFO]: Bot: Current status - Green (70.68%)
+2025-06-25 13:33:37 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:33:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:33:37 [INFO]: Latest Variance: 70.6758, Latest Category: Green
+2025-06-25 13:33:37 [INFO]: Bot: Current status - Green (70.68%)
+2025-06-25 13:33:52 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:33:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:33:52 [INFO]: Latest Variance: 70.6758, Latest Category: Green
+2025-06-25 13:33:52 [INFO]: Bot: Current status - Green (70.68%)
+2025-06-25 13:34:07 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:34:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:34:07 [INFO]: Latest Variance: 74.90875, Latest Category: Green
+2025-06-25 13:34:07 [INFO]: Bot: Current status - Green (74.91%)
+2025-06-25 13:34:22 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:34:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:34:22 [INFO]: Latest Variance: 74.90875, Latest Category: Green
+2025-06-25 13:34:22 [INFO]: Bot: Current status - Green (74.91%)
+2025-06-25 13:34:37 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:34:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:34:37 [INFO]: Latest Variance: 74.90875, Latest Category: Green
+2025-06-25 13:34:37 [INFO]: Bot: Current status - Green (74.91%)
+2025-06-25 13:34:52 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:34:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:34:52 [INFO]: Latest Variance: 74.90875, Latest Category: Green
+2025-06-25 13:34:52 [INFO]: Bot: Current status - Green (74.91%)
+2025-06-25 13:35:07 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:35:07 [INFO]: Found 60 variance entries.
+2025-06-25 13:35:07 [INFO]: Latest Variance: 74.02762, Latest Category: Green
+2025-06-25 13:35:07 [INFO]: Bot: Current status - Green (74.03%)
+2025-06-25 13:35:22 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:35:22 [INFO]: Found 60 variance entries.
+2025-06-25 13:35:22 [INFO]: Latest Variance: 74.02762, Latest Category: Green
+2025-06-25 13:35:22 [INFO]: Bot: Current status - Green (74.03%)
+2025-06-25 13:35:37 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:35:37 [INFO]: Found 60 variance entries.
+2025-06-25 13:35:37 [INFO]: Latest Variance: 74.02762, Latest Category: Green
+2025-06-25 13:35:37 [INFO]: Bot: Current status - Green (74.03%)
+2025-06-25 13:35:52 [INFO]: Bot: Checking GCP data...
+2025-06-25 13:35:52 [INFO]: Found 60 variance entries.
+2025-06-25 13:35:52 [INFO]: Latest Variance: 74.02762, Latest Category: Green
+2025-06-25 13:35:52 [INFO]: Bot: Current status - Green (74.03%)
